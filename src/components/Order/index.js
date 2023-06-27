@@ -58,7 +58,7 @@ const index = () => {
                 <td>
                   <select>
                     <option />
-                    <option>75kg</option>
+                    <option>65kg</option>
                     <option>35kg</option>
                   </select>
                 </td>
