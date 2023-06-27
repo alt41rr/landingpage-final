@@ -28,7 +28,7 @@ const index = () => {
           <div className="food-description">
             <h2 className="food-titile">Abon Cakalang</h2>
             <p>Level : EASY, MEDIUM, MAX</p>
-            <p className="food-price">Rp 15.000</p>
+            <p className="food-price">Rp 10.000</p>
           </div>
         </div>
       </div>
