@@ -16,8 +16,8 @@ const index = () => {
                     <h2>David Kandou</h2>
                     <h4 className="text___4">TEAM</h4>
                     <div className="social">
-                        <a className="icon__team" href="https://www.facebook.com/rachel.graciellarachel.5"><i className="fa fa-facebook" /></a>
-                        <a className="icon__team" href="https://www.instagram.com/graciellarachel_gr/"><i className="fa fa-instagram" /></a>
+                        <a className="icon__team" href="/#"><i className="fa fa-facebook" /></a>
+                        <a className="icon__team" href="/#"><i className="fa fa-instagram" /></a>
                         <a className="icon__team" href="/#"><i className="fa fa-twitter" /></a>
                     </div>
                     </div>
