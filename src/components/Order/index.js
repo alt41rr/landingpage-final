@@ -46,7 +46,7 @@ const index = () => {
               </tr>
               <tr>
                 <td data-th="title">Tuna</td>
-                <td data-th="price">Rp 15.000</td>
+                <td data-th="price">Rp 10.000</td>
                 <td>
                   <select>
                     <option />
