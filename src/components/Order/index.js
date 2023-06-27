@@ -15,7 +15,7 @@ const index = () => {
           <div className="food-description">
             <h2 className="food-titile">Abon Tuna</h2>
             <p>Level : EASY, MEDIUM, MAX</p>
-            <p className="food-price">RP 10.000</p>
+            <p className="food-price">RP 15.000</p>
           </div>
         </div>
         <div className="food-menu-item">
@@ -28,7 +28,7 @@ const index = () => {
           <div className="food-description">
             <h2 className="food-titile">Abon Cakalang</h2>
             <p>Level : EASY, MEDIUM, MAX</p>
-            <p className="food-price">Rp 10.000</p>
+            <p className="food-price">Rp 15.000</p>
           </div>
         </div>
       </div>
@@ -46,7 +46,7 @@ const index = () => {
               </tr>
               <tr>
                 <td data-th="title">Tuna</td>
-                <td data-th="price">Rp 10.000</td>
+                <td data-th="price">Rp 15.000</td>
                 <td>
                   <select>
                     <option />

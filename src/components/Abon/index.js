@@ -29,7 +29,7 @@ const index = () => {
               <div class="img-content">
                 <h3>Cakalang</h3>
                 <a href="#food-menu" class="btn btn-primary" target="blank">
-                  Order now
+                  Order Now
                 </a>
               </div>
             </div>
